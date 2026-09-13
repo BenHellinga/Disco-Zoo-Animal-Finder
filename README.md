@@ -23,3 +23,7 @@ Disco Zoo Animal Finder is a solver for a mobile game called [Disco Zoo](https:/
 3. The solver prints the board, the tile counts, a heatmap, and its best guess.
 4. Enter what was found at the suggested tile: `x` or `nothing` for empty, an animal's name (or its number in the list you entered) if it was found, or `done`/`reset` to end or restart.
 5. Repeat until every animal has been fully located.
+
+## Example
+
+<img width="424" height="956" alt="image" src="https://github.com/user-attachments/assets/ecc5628f-690d-4de6-9731-6dfb7e02dd3a" />
